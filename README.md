@@ -4,4 +4,4 @@ My first 2D game. If you want to test it, you need to install MiniLibx. MiniLibX
 
 Written in according with norminette.
 
-![witcher](https://user-images.githubusercontent.com/90219183/153639821-950c1ef3-c6b2-43db-b4de-97984b471fce.gif)
+![last_witcher](https://user-images.githubusercontent.com/90219183/153701958-efad2936-f979-4719-9690-39c2b4857a41.gif)
